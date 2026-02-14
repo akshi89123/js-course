@@ -10,3 +10,6 @@ n = 'shreya';
 course = 'btech cse';
 
 console.table([age , n ,course]);
+
+console.log(typeof null);
+console.log(typeof undefined);
